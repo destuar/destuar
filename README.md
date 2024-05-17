@@ -3,11 +3,11 @@
 <div style="position: relative">
   
 <div id="welcome-message" align="left">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=7aa37a&random=false&width=435&lines=Hi%2C+I'm+Chris+Beaudoin!;Welcome+to+my+account." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=7aa37a&random=false&width=435&lines=Hi%2C+I'm+Diego+Estuar!;Welcome+to+my+profile." alt="Typing SVG" /></a>
 </div>
 
 
-Hi  I'm **Chris**! I am someone who is deeply passionate about blending tech with creative solutions to make a **positive impact**. My journey is filled with various projects, from **full-stack** websites to **image recognition models**.
+Hi  I'm **Diego**! I am someone who is deeply passionate about blending tech with creative solutions to make a **positive impact**. My journey is filled with various projects, from **full-stack** websites to **image recognition models**.
 Outside the digital world, I'm an **adventurer** at heart — **hiking**, **camping**, training for **triathlons**, capturing the world through my **camera**, and constantly seeking inspiration from **nature**.
 
 <br>
