@@ -9,8 +9,8 @@
 
 <div align="center">
   <span>
-    <h1>Hey, I'm Diego,</h1>
-    <h4>I'm a data analyst and reasearcher. You can view my <a href="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/rcv_en_azzar.pdf" target="_blank">resume here</a> for more information.</h4>
+    <h1>Hey, I'm Diego</h1>
+    <h4>I am a data analyst and graduate reasearcher. You can view my <a href="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/rcv_en_azzar.pdf" target="_blank">resume here</a> for more information.</h4>
   </span>
 </div>
 
