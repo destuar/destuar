@@ -10,7 +10,7 @@
 <div align="center">
   <span>
     <h1>Hey 👋, I'm Diego</h1>
-    <h4>I am a research analyst and lifelong student. You can view my <a href="https://github.com/destuar/destuar/blob/main/DIEGO%20ESTUAR%20-%20RESUME.pdf" target="_blank">resume here</a> for more information.</h4>
+    <h4>I am a data analyst and lifelong student. You can view my <a href="https://github.com/destuar/destuar/blob/main/DIEGO%20ESTUAR%20-%20RESUME.pdf" target="_blank">resume here</a> for more information.</h4>
   </span>
 </div>
 
