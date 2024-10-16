@@ -35,9 +35,10 @@
   <div align="center">
     <h2>You can reach me by:</h2>
     <p>
-      <a href="https://www.linkedin.com/in/diegoestuar/" target="_blank">
+      <a href="https://www.linkedin.com/in/diegoestuar/" target="blank">
         <img src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="azzar" height="30">
-      </a><a href="mailto:diegojestuar@gmail.com" target="_blank">
+      </a>
+      <a href="mailto:diegojestuar@gmail.com" target="blank">
         <img src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="azzar" height="30">
       </a>
     </p>
