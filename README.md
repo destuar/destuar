@@ -43,7 +43,7 @@
       </a>&nbsp;&nbsp;
       <a>
         <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass Badge" height="30">
-      </a>
+      </a>&nbsp;&nbsp;
 
       <!-- Frameworks and Libraries -->
       <a>
@@ -60,7 +60,7 @@
       </a>&nbsp;&nbsp;
       <a>
         <img src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain Badge" height="30">
-      </a>
+      </a>&nbsp;&nbsp;
 
       <!-- Databases -->
       <a>
@@ -74,7 +74,7 @@
       </a>&nbsp;&nbsp;
       <a>
         <img src="https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j Badge" height="30">
-      </a>
+      </a>&nbsp;&nbsp;
 
       <!-- Tools for Development -->
       <a>
@@ -85,7 +85,7 @@
       </a>&nbsp;&nbsp;
       <a>
         <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge" height="30">
-      </a>
+      </a>&nbsp;&nbsp;
 
       <!-- Design/Visualization Tools -->
       <a>
