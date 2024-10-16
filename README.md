@@ -13,6 +13,20 @@
     <h4>I am a data analyst and lifelong student. You can view my <a href="https://github.com/destuar/destuar/blob/main/Estuar%2C%20Diego%20-%20Resume.pdf" target="_blank">resume here</a> for more information.</h4>
   </span>
 </div>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 <hr>
 
