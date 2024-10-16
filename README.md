@@ -42,6 +42,9 @@
       </a>
     </p>
   </div>
+</details>
+
+<details>
   <summary>My Tech Stack</summary>
   <div align="center">
     <p>
@@ -50,7 +53,56 @@
       </a>&nbsp;&nbsp;
       <a>
         <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau Badge" height="30">
+      </a>&nbsp;&nbsp;
+      <a>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch Badge" height="30">
+      </a>&nbsp;&nbsp;
+      <a>
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Badge" height="30">
+      </a>&nbsp;&nbsp;
+      <a>
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge" height="30">
+      </a>&nbsp;&nbsp;
+      <a>
+        <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge" height="30">
+      </a>&nbsp;&nbsp;
+      <a>
+        <img src="https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j Badge" height="30">
+      </a>&nbsp;&nbsp;
+      <a>
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge" height="30">
+      </a>&nbsp;&nbsp;
+      <a>
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge" height="30">
+      </a>&nbsp;&nbsp;
+      <a>
+        <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" alt="FastAPI Badge" height="30">
+      </a>&nbsp;&nbsp;
+      <a>
+        <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R Badge" height="30">
+      </a>&nbsp;&nbsp;
+      <a>
+        <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass Badge" height="30">
+      </a>&nbsp;&nbsp;
+      <a>
+        <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Badge" height="30">
+      </a>&nbsp;&nbsp;
+      <a>
+        <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python Badge" height="30">
+      </a>&nbsp;&nbsp;
+      <a>
+        <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel Badge" height="30">
+      </a>&nbsp;&nbsp;
+      <a>
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge" height="30">
+      </a>&nbsp;&nbsp;
+      <a>
+        <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" height="30">
+      </a>&nbsp;&nbsp;
+      <a>
+        <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="Jira Badge" height="30">
       </a>
     </p>
   </div>
 </details>
+
