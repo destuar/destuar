@@ -30,81 +30,20 @@
 
 <hr>
 
-<details>
-  <summary>My Tech Stack</summary>
-  <div align="center">
-    <div>
-      <h2>Programming Languages</h2>
-      <a>
-        <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python Badge" height="30">
-      </a>&nbsp;&nbsp;
-      <a>
-        <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R Badge" height="30">
-      </a>&nbsp;&nbsp;
-      <a>
-        <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass Badge" height="30">
-      </a>&nbsp;&nbsp;
+### Programming Languages
 
-      <h2>Frameworks and Libraries</h2>
-      <a>
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch Badge" height="30">
-      </a>&nbsp;&nbsp;
-      <a>
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Badge" height="30">
-      </a>&nbsp;&nbsp;
-      <a>
-        <!-- Corrected logo parameter to lowercase 'fastapi' -->
-        <img src="https://img.shields.io/badge/FastAPI-109989?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI Badge" height="30">
-      </a>&nbsp;&nbsp;
-      <a>
-        <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Badge" height="30">
-      </a>&nbsp;&nbsp;
-      <a>
-        <!-- Removed logo parameter since LangChain logo is not available -->
-        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white" alt="LangChain Badge" height="30">
-      </a>&nbsp;&nbsp;
+![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![R Badge](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Sass Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-      <h2>Databases</h2>
-      <a>
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge" height="30">
-      </a>&nbsp;&nbsp;
-      <a>
-        <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge" height="30">
-      </a>&nbsp;&nbsp;
-      <a>
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge" height="30">
-      </a>&nbsp;&nbsp;
-      <a>
-        <img src="https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j Badge" height="30">
-      </a>&nbsp;&nbsp;
+### Frameworks and Libraries
 
-      <h2>Tools for Development</h2>
-      <a>
-        <!-- Corrected logo parameter to 'git' -->
-        <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" height="30">
-      </a>&nbsp;&nbsp;
-      <a>
-        <!-- Corrected logo parameter to 'jira' -->
-        <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira Badge" height="30">
-      </a>&nbsp;&nbsp;
-      <a>
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge" height="30">
-      </a>&nbsp;&nbsp;
+![PyTorch Badge](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow Badge](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![FastAPI Badge](https://img.shields.io/badge/FastAPI-109989?style=for-the-badge&logo=fastapi&logoColor=white)
+![Pandas Badge](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![LangChain Badge](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)
 
-      <h2>Design/Visualization Tools</h2>
-      <a>
-        <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Badge" height="30">
-      </a>&nbsp;&nbsp;
-      <a>
-        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge" height="30">
-      </a>&nbsp;&nbsp;
-      <a>
-        <!-- Corrected logo parameter to 'microsoft-excel' -->
-        <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel Badge" height="30">
-      </a>
-    </div>
-  </div>
-</details>
 
 </body>
 </html>
