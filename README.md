@@ -42,8 +42,8 @@
       </a>
     </p>
   </div>
-   <summary>My Tech Stack</summary>
-   <div align="center">
+  <summary>My Tech Stack</summary>
+  <div align="center">
     <p>
       <a>
         <img src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" height="30">
