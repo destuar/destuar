@@ -33,7 +33,6 @@
 <details>
   <summary>My Tech Stack</summary>
   <div align="center">
-    <!-- Replaced <p> with <div> to allow block-level elements inside -->
     <div>
       <h2>Programming Languages</h2>
       <a>
@@ -54,13 +53,15 @@
         <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Badge" height="30">
       </a>&nbsp;&nbsp;
       <a>
+        <!-- Corrected logo parameter to lowercase 'fastapi' -->
         <img src="https://img.shields.io/badge/FastAPI-109989?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI Badge" height="30">
       </a>&nbsp;&nbsp;
       <a>
         <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Badge" height="30">
       </a>&nbsp;&nbsp;
       <a>
-        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain Badge" height="30">
+        <!-- Removed logo parameter since LangChain logo is not available -->
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white" alt="LangChain Badge" height="30">
       </a>&nbsp;&nbsp;
 
       <h2>Databases</h2>
@@ -79,9 +80,11 @@
 
       <h2>Tools for Development</h2>
       <a>
+        <!-- Corrected logo parameter to 'git' -->
         <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" height="30">
       </a>&nbsp;&nbsp;
       <a>
+        <!-- Corrected logo parameter to 'jira' -->
         <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira Badge" height="30">
       </a>&nbsp;&nbsp;
       <a>
@@ -96,6 +99,7 @@
         <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge" height="30">
       </a>&nbsp;&nbsp;
       <a>
+        <!-- Corrected logo parameter to 'microsoft-excel' -->
         <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel Badge" height="30">
       </a>
     </div>
@@ -104,4 +108,3 @@
 
 </body>
 </html>
-
