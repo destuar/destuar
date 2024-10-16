@@ -34,7 +34,8 @@
   <summary>My Tech Stack</summary>
   <div align="center">
     <p>
-      <!-- Programming Languages -->
+      <!-- Removed comments and added headings -->
+      <h2>Programming Languages</h2>
       <a>
         <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python Badge" height="30">
       </a>&nbsp;&nbsp;
@@ -45,7 +46,7 @@
         <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass Badge" height="30">
       </a>&nbsp;&nbsp;
 
-      <!-- Frameworks and Libraries -->
+      <h2>Frameworks and Libraries</h2>
       <a>
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch Badge" height="30">
       </a>&nbsp;&nbsp;
@@ -53,16 +54,16 @@
         <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Badge" height="30">
       </a>&nbsp;&nbsp;
       <a>
-        <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" alt="FastAPI Badge" height="30">
+        <img src="https://img.shields.io/badge/FastAPI-109989?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI Badge" height="30">
       </a>&nbsp;&nbsp;
       <a>
         <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Badge" height="30">
       </a>&nbsp;&nbsp;
       <a>
-        <img src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain Badge" height="30">
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain Badge" height="30">
       </a>&nbsp;&nbsp;
 
-      <!-- Databases -->
+      <h2>Databases</h2>
       <a>
         <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge" height="30">
       </a>&nbsp;&nbsp;
@@ -76,20 +77,20 @@
         <img src="https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j Badge" height="30">
       </a>&nbsp;&nbsp;
 
-      <!-- Tools for Development -->
+      <h2>Tools for Development</h2>
       <a>
-        <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" height="30">
+        <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" height="30">
       </a>&nbsp;&nbsp;
       <a>
-        <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="Jira Badge" height="30">
+        <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira Badge" height="30">
       </a>&nbsp;&nbsp;
       <a>
         <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge" height="30">
       </a>&nbsp;&nbsp;
 
-      <!-- Design/Visualization Tools -->
+      <h2>Design/Visualization Tools</h2>
       <a>
-        <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau Badge" height="30">
+        <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Badge" height="30">
       </a>&nbsp;&nbsp;
       <a>
         <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge" height="30">
@@ -100,3 +101,6 @@
     </p>
   </div>
 </details>
+
+</body>
+</html>
