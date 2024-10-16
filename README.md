@@ -35,11 +35,12 @@
   <div align="center">
     <p>
       <a href="https://www.linkedin.com/in/diegoestuar/" target="_blank">
-        <img src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="azzar" height="30">
+        <img src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="30">
       </a>&nbsp;&nbsp;
       <a href="mailto:diegojestuar@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="azzar" height="30">
+        <img src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" height="30">
       </a>
     </p>
   </div>
 </details>
+
