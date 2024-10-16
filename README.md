@@ -34,13 +34,14 @@
   <summary>Contact Me</summary>
   <div align="center">
     <p>
-      <a href="https://www.linkedin.com/in/diegoestuar/" target="_blank">
+      <a href="https://www.linkedin.com/in/diegoestuar/" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="30">
       </a>&nbsp;&nbsp;
-      <a href="mailto:diegojestuar@gmail.com" target="_blank">
+      <a href="mailto:diegojestuar@gmail.com" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" height="30">
       </a>
     </p>
   </div>
 </details>
+
 
