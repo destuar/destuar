@@ -33,8 +33,8 @@
 <details>
   <summary>My Tech Stack</summary>
   <div align="center">
-    <p>
-      <!-- Removed comments and added headings -->
+    <!-- Replaced <p> with <div> to allow block-level elements inside -->
+    <div>
       <h2>Programming Languages</h2>
       <a>
         <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python Badge" height="30">
@@ -98,9 +98,10 @@
       <a>
         <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel Badge" height="30">
       </a>
-    </p>
+    </div>
   </div>
 </details>
 
 </body>
 </html>
+
