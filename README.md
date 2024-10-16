@@ -33,13 +33,13 @@
 <details>
   <summary>Contact Me</summary>
   <div align="center">
-    <h2>You can reach me by:</h2>
     <p>
-      <a href="https://www.linkedin.com/in/diegoestuar/" target="blank">
+      <a href="https://www.linkedin.com/in/diegoestuar/" target="_blank">
         <img src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="azzar" height="30">
-      </a>
-      <a href="mailto:diegojestuar@gmail.com" target="blank">
+      </a>&nbsp;&nbsp;
+      <a href="mailto:diegojestuar@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="azzar" height="30">
       </a>
     </p>
-  </
+  </div>
+</details>
